@@ -1,5 +1,6 @@
 #IBM-Data-Science-Capstone-SpaceX#
-[alt text]("C:\Git_test\Project 3 Docs\Side 1 Image.pdf")
+![Side 1](https://raw.githubusercontent.com/Drook93/IBM-Data-Science-Capstone-SpaceX/main/Side%201%20Image_page-0001.jpg)
+
 ##Introduction##
 
 
